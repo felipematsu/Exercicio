@@ -1,0 +1,41 @@
+[
+  {
+    "fullname": "John Doe",
+    "eid": "1234",
+    "class": "Sala 1,Sala 2,Sala 3,Sala 4,Sala 5, Sala 6",
+    "email Responsável, Pai": "johndoepai@gmail.com",
+    "phone Pai": "(19) 985504400",
+    "phone Responsável, Mãe": "(11) 38839332",
+    "email Mãe": "johndoemae@gmail.com",
+    "email Aluno": "johndoealuno@gmail.com",
+    "phone Aluno": "11 983340440",
+    "invisible": "1",
+    "see_all": "yes"
+  },
+  {
+    "fullname": "Mary Doe",
+    "eid": "1235",
+    "class": "Sala 1,Sala 3",
+    "email Responsável, Pai": "marydoepai@gmail.com",
+    "phone Pai": "(11) 996143265",
+    "phone Responsável, Mãe": "(11) 983342282",
+    "email Mãe": "marydoemae@gmail.com",
+    "email Aluno": "marydoealuno@gmail.com",
+    "phone Aluno": "11 983340440",
+    "invisible": "0",
+    "see_all": "no"
+  },
+  {
+    "fullname": "Victor Doe",
+    "eid": "1236",
+    "class": "Sala 6,Sala 7",
+    "email Responsável, Pai": "victordoepai@hotmail.com",
+    "phone Pai": "(19) 972378338",
+    "phone Responsável, Mãe": "(19) 932342199",
+    "email Mãe": "victordoemae@gmail.com",
+    "email Aluno": "victordoealuno@gmail.com",
+    "phone Aluno": "19 974430033",
+    "invisible": "0",
+    "see_all": "yes"
+  }
+]
